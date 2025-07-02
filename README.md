@@ -1,4 +1,4 @@
-# 🇮🇳 BharatTaxCLI‑FY25 (Made By SIDHANT MALIK
+# 🇮🇳 BharatTaxCLI‑FY25 (Made By sidhantMalik)
 
 A C# console application to calculate Indian income tax (including 4% health & education cess) under the **New Tax Regime for Financial Year 2024–25**.
 
